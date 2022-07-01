@@ -1,0 +1,14 @@
+h1{
+    background-color: lightcyan;
+    height: 40px;
+    color: navy;
+    text-align: center;
+    margin: 0 auto;
+    padding: 10px;
+}
+h3{
+    color: rgb(47, 70, 145);
+    background-color: aliceblue;
+    margin: 0 auto;
+    padding-left: 10px;
+}
